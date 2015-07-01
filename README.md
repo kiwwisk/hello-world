@@ -1,2 +1,5 @@
 # hello-world
-Tutorial repository
+=============
+
+
+First tutorial repository. It is used only as an example.
